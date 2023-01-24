@@ -3,14 +3,15 @@
 
 
 
-![image](https://user-images.githubusercontent.com/105915649/208597855-b573be9e-1a16-46b9-b60f-3249563c7dd4.png)
+
+![Screenshot (2968)](https://user-images.githubusercontent.com/101566216/214245352-55841eee-89ad-441d-9fe4-8f2b057e6218.png)
 
 
 
-# Ayoa : Website_Clone
+# Monkey Servey : Website_Clone
 
 
-Ayoa is the original mind mapping app, pushing the boundaries of brainstorming to new levels. Get started with Ayoa and its powerful AI
+Monkey Servey is the original servey conduction website , pushing the boundaries of brainstorming to new levels. Get started with Monkey Servey and its powerful AI
 
 Speaking of the technical aspects, the site is fairly static with some features, 
 
@@ -22,6 +23,10 @@ Designed the clone with the static page with fuctional features within the stipu
  - HTML5
 - CSS
 - JAVSCRIPT
+- React.js
+- Charkra Ui
+- Redux js
+
  
 
 
@@ -32,46 +37,31 @@ Designed the clone with the static page with fuctional features within the stipu
 
 ## Demo
 
-- Live Demo : https://startling-youtiao-e9d129.netlify.app/
+- Live Demo : https://roaring-bublanina-916643.netlify.app/
 
 
 
 ## Screenshots
 
 - **Home Page**
-![image](https://user-images.githubusercontent.com/105915649/208597310-b1b96cc9-b957-4c76-864d-2c5cca61fbfd.png)
 
+
+![Screenshot (2973)](https://user-images.githubusercontent.com/101566216/214245635-02718063-10e4-425b-b869-b3f881ebd06d.png)
 
  
-![image](https://user-images.githubusercontent.com/105915649/208597009-c658da8d-a1a0-4b14-84d8-119bd6f1b961.png)
-
-![image](https://user-images.githubusercontent.com/105915649/208597068-dcf42369-7ed0-4773-8acd-aeca8dea3c7d.png)
-
-- **Footer Page**
-
-![image](https://user-images.githubusercontent.com/105915649/208597163-2393981f-79ef-409d-84f9-1e2a31239ec5.png)
-
 
 
 - **Product  Page**  
 
-![image](https://user-images.githubusercontent.com/105915649/208597398-da54b358-2859-41b0-b6b1-32f31eb561c5.png)
+
+![Screenshot (2971)](https://user-images.githubusercontent.com/101566216/214245801-96120617-707f-499a-8085-82ba16635f50.png)
 
 
 - **Login/Sign Up Page**
 
 
-![image](https://user-images.githubusercontent.com/105915649/208597513-581a1eb2-d6d0-4145-8a80-baf3b3540694.png)
-![image](https://user-images.githubusercontent.com/105915649/208597543-32a688c7-7c7d-452f-8f9a-aa2ee8215d00.png)
-
-
-
-- **Billing/Checkout Page**
-![image](https://user-images.githubusercontent.com/105915649/208597596-1ee0a33a-afd8-4a9c-8c60-79b4c5b8d10c.png)
-![image](https://user-images.githubusercontent.com/105915649/208597632-360719a2-c458-49e0-a7c1-fad64dba18d8.png)
-
-
-
+![Screenshot (2969)](https://user-images.githubusercontent.com/101566216/214245850-256e30c2-e576-45ea-b783-94a3bd784fe5.png)
+![Screenshot (2970)](https://user-images.githubusercontent.com/101566216/214245863-9dccdf69-172d-432d-8995-1dec7bcce468.png)
 
 
 
